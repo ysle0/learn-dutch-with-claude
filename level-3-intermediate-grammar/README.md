@@ -88,7 +88,7 @@ Hij leerde Nederlands in twee jaar.      (그는 2년 만에 네덜란드어를 
 De kinderen speelden in het park.        (아이들이 공원에서 놀았다.)
 Ik hoopte op goed weer.                  (나는 좋은 날씨를 바랐다.)
 Ze kookte een heerlijke maaltijd.        (그녀는 맛있는 식사를 요리했다.)
-Wij praaten urenlang over de vakantie.   (우리는 휴가에 대해 몇 시간이나 이야기했다.)
+Wij praatten urenlang over de vakantie.   (우리는 휴가에 대해 몇 시간이나 이야기했다.)
 Hij antwoordde snel op de vraag.         (그는 질문에 빠르게 대답했다.)
 De bouwvakkers bouwden een nieuw huis.   (건설 노동자들이 새 집을 지었다.)
 ```

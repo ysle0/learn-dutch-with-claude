@@ -68,9 +68,9 @@
 | De hond in de pot vinden | 냄비에서 개를 발견하다 | 너무 늦게 도착하다 (음식이 다 없어진 후) |
 | Het paard achter de wagen spannen | 마차 뒤에 말을 묶다 | 순서를 바꿔 하다 (본말전도) |
 | Een ezel stoot zich geen twee keer aan dezelfde steen | 당나귀도 같은 돌에 두 번 걸려 넘어지지 않는다 | 같은 실수를 반복하지 마라 |
-| Zo ziek als een hond | 개처럼 아프다 | 매우 아프다 |
-| Mieren neuken | 개미와 성교하다 | 사소한 것에 지나치게 집착하다 |
-| Een kat in het donker knijpen | 어둠 속에서 고양이를 꼬집다 | 몰래 나쁜 짓을 하다 |
+Zo ziek als een hond | 개처럼 아프다 | 매우 아프다 |
+Mierenneuken | 개미와 성교하다 | 사소한 것에 지나치게 집착하다 |
+Een kat in het donker knijpen | 어둠 속에서 고양이를 꼬집다 | 몰래 나쁜 짓을 하다 |
 
 ---
 

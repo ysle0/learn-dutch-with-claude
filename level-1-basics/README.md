@@ -1129,7 +1129,7 @@ Twintig gedeeld door vier is vijf. (20 ÷ 4 = 5)
 6)  83          →  drieëntachtig
 7)  91          →  eenennegentig
 8)  100         →  honderd
-9)  156         →  honderdzesenenvijftig
+9)  156         →  honderdzesenvijftig
 10) 247         →  tweehonderdzevenenveertig
 11) 399         →  driehonderdnegenennegentig
 12) 1.024       →  duizendvierentwintig
