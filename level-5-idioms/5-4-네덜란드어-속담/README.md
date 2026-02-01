@@ -17,3 +17,7 @@
 | Zuinigheid met vlijt bouwt huizen als kastelen. | 절약과 근면은 성 같은 집을 짓는다. | 티끌 모아 태산. |
 | Haastige spoed is zelden goed. | 서두르는 것은 좀처럼 좋지 않다. | 급할수록 돌아가라. |
 | Wie boter op zijn hoofd heeft, moet uit de zon blijven. | 머리에 버터를 올린 자는 햇볕을 피해야 한다. | 자기 결점을 알면 조심해라. |
+
+## 목차
+
+

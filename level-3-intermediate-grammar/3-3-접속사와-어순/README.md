@@ -5,8 +5,8 @@
 ## 목차
 
 - [등위접속사 (Nevenschikkende voegwoorden) — 어순 변화 없음](등위접속사-Nevenschikkende-voegwoorden-—-어순-변화-없음.md)
-- [종속접속사 (Onderschikkende voegwoorden) — 동사가 끝으로!](종속접속사-Onderschikkende-voegwoorden-—-동사가-끝으로!.md)
-- [종속절이 먼저 오는 경우](종속절이-먼저-오는-경우.md)
-- [종속절에서 동사가 여러 개인 경우](종속절에서-동사가-여러-개인-경우.md)
 - [복합 문장 연습](복합-문장-연습.md)
 - [연습 대화: 접속사 활용](연습-대화-접속사-활용.md)
+- [종속절에서 동사가 여러 개인 경우](종속절에서-동사가-여러-개인-경우.md)
+- [종속절이 먼저 오는 경우](종속절이-먼저-오는-경우.md)
+- [종속접속사 (Onderschikkende voegwoorden) — 동사가 끝으로!](종속접속사-Onderschikkende-voegwoorden-—-동사가-끝으로!.md)
