@@ -32,3 +32,9 @@ Level 1 → Level 2 → Level 3 → Level 4 → Level 5 → Level 6
 - [Level 4: 고급 문법](level-4-advanced-grammar/README.md)
 - [Level 5: 관용구와 표현](level-5-idioms/README.md)
 - [Level 6: 실전과 문화](level-6-practice/README.md)
+
+---
+
+## 부록
+
+- [단어장 (테마별 어휘)](vocabulary/README.md)
