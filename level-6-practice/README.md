@@ -6,8 +6,8 @@
 
 ## 목차
 
-- [6-1. 실전 대화: 일상 시나리오](6-1-실전-대화.md)
-- [6-2. 네덜란드 문화 이해](6-2-네덜란드-문화-이해.md)
-- [6-3. 읽기 연습: 짧은 텍스트](6-3-읽기-연습.md)
-- [6-4. 쓰기 연습](6-4-쓰기-연습.md)
-- [6-5. 학습 자원 추천](6-5-학습-자원-추천.md)
+- [6-1. 실전 대화 (Praktijkgesprekken)](6-1-실전-대화-praktijkgesprekken.md)
+- [6-2. 네덜란드 문화 이해 (Nederlandse cultuur)](6-2-네덜란드-문화-이해-nederlandse-cultuur.md)
+- [6-3. 읽기 연습 (Leesoefeningen)](6-3-읽기-연습-leesoefeningen.md)
+- [6-4. 쓰기 연습 (Schrijfoefeningen)](6-4-쓰기-연습-schrijfoefeningen.md)
+- [6-5. 학습 자원 추천 (Leermiddelen)](6-5-학습-자원-추천-leermiddelen.md)
