@@ -11,13 +11,13 @@ Korean-language curriculum for learning Dutch (네덜란드어 학습 커리큘�
 6 progressive levels + vocabulary section:
 
 ```
-level-1-basics/           → 알파벳, 발음, 인사, 숫자
-level-2-essential-grammar/ → 관사, 명사, 동사, 어순
-level-3-intermediate-grammar/ → 과거시제, 접속사, 형용사
-level-4-advanced-grammar/  → 수동태, 관계절, 조건문
-level-5-idioms/           → 관용구, 속담, 구어체
-level-6-practice/         → 실전 대화, 문화, 읽기/쓰기
-vocabulary-with-conversation/ → 25+ 테마별 단어장
+01-level-1-basics/           → 알파벳, 발음, 인사, 숫자
+02-level-2-essential-grammar/ → 관사, 명사, 동사, 어순
+03-level-3-intermediate-grammar/ → 과거시제, 접속사, 형용사
+04-level-4-advanced-grammar/  → 수동태, 관계절, 조건문
+05-level-5-idioms/           → 관용구, 속담, 구어체
+06-level-6-practice/         → 실전 대화, 문화, 읽기/쓰기
+07-vocabulary-with-conversation/ → 25+ 테마별 단어장
 ```
 
 Each section is a **folder** containing:
@@ -45,4 +45,4 @@ All content files (excluding README.md) are normalized to:
 - Update the parent folder's `README.md` 목차 when adding/removing/renaming files
 - Keep the `## 목차` section with relative markdown links: `- [Title](filename.md)`
 - When splitting a file, use heading-level boundaries as split points
-- The vocabulary section (`vocabulary-with-conversation/`) uses a flat structure (no subfolders)
+- The vocabulary section (`07-vocabulary-with-conversation/`) uses a flat structure (no subfolders)

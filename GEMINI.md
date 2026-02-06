@@ -6,33 +6,33 @@ This directory contains a structured curriculum for learning the Dutch language,
 ## Directory Structure & Curriculum
 The project is divided into 6 distinct levels, each in its own directory with a `README.md` serving as the main textbook material.
 
-*   **`level-1-basics` (기초 입문)**
+*   **`01-level-1-basics` (기초 입문)**
     *   Covers: Alphabet, pronunciation, basic greetings, self-introduction, numbers, dates/time, basic question words.
     *   Goal: Master reading/pronunciation and survival phrases.
 
-*   **`level-2-essential-grammar` (필수 문법 기초)**
+*   **`02-level-2-essential-grammar` (필수 문법 기초)**
     *   Covers: Articles, nouns, basic word order, present tense verbs.
     *   Goal: Construct simple sentences.
 
-*   **`level-3-intermediate-grammar` (중급 문법)**
+*   **`03-level-3-intermediate-grammar` (중급 문법)**
     *   Covers: Past tense, conjunctions, prepositions, comparatives.
     *   Goal: Express past events and complex ideas.
 
-*   **`level-4-advanced-grammar` (고급 문법)**
+*   **`04-level-4-advanced-grammar` (고급 문법)**
     *   Covers: Passive voice, relative clauses, subjunctive, conditionals.
     *   Goal: Master sophisticated sentence structures.
 
-*   **`level-5-idioms` (관용구와 표현)**
+*   **`05-level-5-idioms` (관용구와 표현)**
     *   Covers: Daily idioms, proverbs, colloquialisms.
     *   Goal: Understand native nuances.
 
-*   **`level-6-practice` (실전과 문화)**
+*   **`06-level-6-practice` (실전과 문화)**
     *   Covers: Real-life conversation scenarios, cultural context.
     *   Goal: Comprehensive practice and cultural immersion.
 
 ## Usage Guide
 1.  **Sequential Learning:** Start from Level 1 and progress through Level 6.
-2.  **Primary Content:** The core learning material is located in the `README.md` file within each level's directory (e.g., `level-1-basics/README.md`).
+2.  **Primary Content:** The core learning material is located in the `README.md` file within each level's directory (e.g., `01-level-1-basics/README.md`).
 3.  **Language:** The instructional text is in **Korean**, while the target language examples are in **Dutch**.
 
 ## Key Files
