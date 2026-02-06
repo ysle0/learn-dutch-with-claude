@@ -1,4 +1,6 @@
 ---
+title: "비분리동사 Onscheidbare werkwoorden 2"
+---
 
 **3. ont- (제거, 시작, 역행, 벗어남)**
 

@@ -1,4 +1,6 @@
 ---
+title: "분리동사 Scheidbare werkwoorden 5"
+---
 
 **18. vast- (고정, 붙잡힘)**
 

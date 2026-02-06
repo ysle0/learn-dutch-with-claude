@@ -1,4 +1,6 @@
 ---
+title: "Separable vs Inseparable (Mixed Verbs) - Part 2"
+---
 
 **3. onder- (분리: 아래로 vs 비분리: 아래에/겪다)**
 
@@ -80,5 +82,3 @@
 | | Dat woord komt vaak **voor**. | | |
 
 > *veroorzaken은 ver- + oorzaken이지만, voor-와 형태가 비슷하니 혼동하지 마세요.
-
----

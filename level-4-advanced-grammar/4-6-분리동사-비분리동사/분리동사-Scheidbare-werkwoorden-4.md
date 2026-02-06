@@ -1,4 +1,6 @@
 ---
+title: "분리동사 Scheidbare werkwoorden 4"
+---
 
 **13. tegen- (반대, 대항)**
 

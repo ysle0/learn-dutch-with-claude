@@ -1,4 +1,6 @@
 ---
+title: "Separable Verbs (in-, mee-, na-, om-)"
+---
 
 **4. in- (방향: 안으로 / 함몰, 삽입)**
 

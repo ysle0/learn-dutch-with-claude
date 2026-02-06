@@ -1,4 +1,6 @@
 ---
+title: "분리동사 Scheidbare werkwoorden 3"
+---
 
 **8. op- (방향: 위로 / 시작, 완료, 소진)**
 
